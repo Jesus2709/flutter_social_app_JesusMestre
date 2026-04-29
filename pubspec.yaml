@@ -1,0 +1,15 @@
+
+name: flutter_social_app
+description: App de red social con API pública
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+
+flutter:
+  uses-material-design: true
